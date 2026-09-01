@@ -38,7 +38,7 @@ git checkout v23.0.0.1
 Make sure you are in the `gem5-v23` directory and build it using `scons`:
 
 ```bash
-scons build/X86/gem5.opt -j <no_of_threads>
+scons build/X86/gem5.opt -j<no_of_threads>
 ```
 
 ---
